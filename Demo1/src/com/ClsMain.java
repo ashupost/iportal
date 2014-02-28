@@ -7,7 +7,7 @@ public class ClsMain {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("My Name is Kahnasdsf");
+		System.out.println("My Name is My Name Is Khan");
 
 	}
 
